@@ -20,7 +20,7 @@ variable "instance_name" {
 
 variable "vm_count" {
   description = "Vm  count"
-  default = "1"
+  default = "2"
 }
 
 variable "environment" {
